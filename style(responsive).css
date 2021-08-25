@@ -347,7 +347,7 @@
         opacity: 0;
     }
 }
-@media(max-width:576px){
+@media(max-width:550px){
     .banner {
         padding: 48px 0px;
         background-position: center;
