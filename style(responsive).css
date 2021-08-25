@@ -348,6 +348,13 @@
     }
 }
 @media(max-width:550px){
+    .manu .limon:checked ~ ul {
+        width: 62% !important;
+    }
+    .manu ul li ul {
+        width: 128%;
+        left: -121px;
+    }
     .banner {
         padding: 48px 0px;
         background-position: center;
@@ -570,5 +577,10 @@
     .f-t {
         font-size: 12px;
         padding: 17px;
+    }
+}
+@media(max-width:376px){
+    .manu .limon:checked ~ ul {
+        width: 64% !important;
     }
 }
