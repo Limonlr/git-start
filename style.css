@@ -70,8 +70,6 @@ h1 h2 h3 h4 p span a li {
     border-radius: 16px;
     margin-left: 52px;
 }
-.con a{
-}
 .manu{
     width: 55%;
 }
@@ -123,7 +121,6 @@ background: #fff;
 display: block;
 transition: .5s;
 }
-.manu ul li ul li a{}
 .manu ul li ul li:hover{
     background-color: #ddd
     ;
@@ -187,9 +184,6 @@ transition: .5s;
     border-radius: 10px;
     transition: .4s;
 }
-.btn-b h3{
-
-}
 .btn-b:hover{
 background-color: rgba(52, 152, 219,.8);
 }
@@ -199,6 +193,9 @@ background-color: rgba(52, 152, 219,.8);
 }
 .video-left{
     width: 48%;
+}
+.video-left iframe{
+    
 }
 .video-content-right{
     width: 48%;
@@ -258,7 +255,6 @@ font-weight: 598;
     padding: 100px;
     margin: auto;
 }
-.p-contant{}
 .p-contant h1{
     font-size: 51px;
     margin-bottom: 26px;
@@ -293,7 +289,6 @@ font-weight: 598;
     font-weight: 500;
     color: #767676;
     line-height: 1.9em;
-}
 }
 .dolar span{
     font-size: 15px;
@@ -331,9 +326,6 @@ color: blue;
     width: 396px;
     box-shadow: -3px 5px 45px 0px #95a5a6;
 
-}
-.p-shadow{
-    
 }
 .c-btn{
     border: 1px solid #ddd;
@@ -393,7 +385,6 @@ color: blue;
     background: #ddd;
     padding: 100px;
 }
-.sub-c{}
 .sub-c p{
     font-size: 25px;
     font-weight: 500;
@@ -448,7 +439,6 @@ margin-bottom: 40px;
     color: #767676;
     
 }
-.w-left h1{}
 .w-right{
     max-width: 48%;
     font-size: 23px;
@@ -456,14 +446,12 @@ margin-bottom: 40px;
     color: #767676;
     text-align: left;
 }    
-.w-right p{}
 .w-repor{
     max-width: 49%;
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0px 1px 21px 10px #ddd;
 }
-.pic-w{}
 .pic-t{
     padding: 14px;
     margin-left: 4px;
@@ -493,9 +481,6 @@ margin-top: 74px;
     font-size: 63px;
     font-weight: 500;
     margin-bottom: 30px;
-}
-.johan{
-
 }
 .j-content{
     border: 1px solid #ddd;
@@ -550,9 +535,6 @@ margin-top: 74px;
 .map{
     padding: 100px;
 }
-.map-content{
-
-}
 .map-content h2{
     font-size: 40px;
     font-weight: 500;
@@ -597,13 +579,4 @@ margin-top: 74px;
     margin-bottom: 20px;
     border-radius: 9px;
     box-sizing: border-box;
-}
-.f-t{
-
-}
-.text-center h4{
-    
-}
-.main-checked{
-
 }

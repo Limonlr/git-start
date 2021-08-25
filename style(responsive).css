@@ -347,3 +347,228 @@
         opacity: 0;
     }
 }
+@media(max-width:576px){
+    .banner {
+        padding: 48px 0px;
+        background-position: center;
+        margin-top: -31px;
+    }
+    .time {
+        padding: 30px;
+    }
+    .t-team {
+        padding: 70px;
+    }
+    .what {
+        padding: 40px;
+    }
+    .pricing {
+        padding: 40px;
+    }
+    .banner-footer {
+        padding: 10px;
+    }
+    .manu {
+        left: 189px;
+    }
+    .con {
+        padding: 4px 20px;
+        font-size: 23px;
+        background-color: rgba(189, 195, 199, 0);
+        color: white;
+    }
+    .icon{
+        width: 88%;
+    }
+    .button {
+        width: 23%;
+        position: relative;
+        left: 14px;
+        top: -53px;
+    }
+    .btn a {
+        font-size: 12px;
+    }
+    .icon span {
+        font-size: 14px;
+        padding: 24px -29px;
+        margin-top: 0px;
+        margin-left: 46px;
+    }
+    .text-b h4 {
+        font-size: 12px;
+    }
+    .text-b h1 {
+        font-size: 26px;
+    }
+    .d-btn {
+        padding: 0px 9px;;
+        font-size: 13px;
+        font-weight: 585;
+        margin-left: 0px;
+        margin-right: 5px;
+
+    }
+    .btn-b {
+        margin-right: 31px !important;
+    }
+    .video-content-right h2 {
+        font-size: 24px;
+
+    }
+    .video-content-right p {
+        font-size: 12px;
+        padding: 16px 2px;
+    }
+    .t-content h1 {
+        font-size: 20px;
+    }
+    .t-content h5 {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .time-p h2 {
+        font-size: 16px;
+    }
+    .t-team h2 {
+        font-size: 16px;
+
+    }
+    .time-p p {
+        font-size: 14px;
+    }
+    .p-contant h1 {
+        font-size: 22px;
+    }
+    .p-contant p {
+        font-size: 17px;
+        margin-bottom: 25px;
+    }
+    .mamun {
+        margin-left: -8px;
+    }
+    .dolar h5 {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+    .dolar h1 {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+    .dolar p {
+        font-size: 13px;
+    }
+    .rule ul li {
+        font-size: 11px;
+        padding: 8px 0px;
+    }
+    .rule ul li span {
+        font-size: 13px;
+    }
+    .img {
+        max-width: 100%;
+        margin-right: 0px;
+    }
+    .subcribe {
+        padding:0px ;
+        margin-top: 236px;
+    }
+    .sub-c p {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+    .sub-c h2 {
+        font-size: 27px;
+        margin-bottom: 40px;
+    }
+    .in {
+        padding: 7px 0px;
+        font-size: 18px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .subm-btn {
+        padding: 6px 16px;
+        border-radius: 16px;
+    }
+    .w-left {
+        max-width: 100%;
+        font-size: 13px;
+    }
+    .w-right {
+        max-width: 100%;
+        font-size: 17px;
+    }
+    .w-repor {
+        max-width: 100%;
+    }
+    .left {
+        float: none;
+    }
+    .picture {
+        margin-left: 112px;
+    }
+    .pic-t h2 {
+        margin-bottom: -57px;
+        font-size: 25px;
+    }
+    .f-content p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .f-content h2 {
+        font-size: 22px;
+    }
+    .j-content p {
+        font-size: 16px;
+    }
+    .j-content p span {
+        font-size: 33px;
+    }
+    .picture-content {
+        margin-right: none;
+        margin-top: 0px;
+        padding-bottom: 0;
+        position: relative;
+        bottom: 50px;
+    }
+    .picture img {
+        height: 50px;
+        width: 50px;
+    }
+    .picture-content h3 {
+        font-size: 14px;
+        margin-bottom: 9px;
+    }
+    .picture-content p {
+        font-size: 16px;
+    }
+    .map {
+        padding: 0px;
+    }
+    .map-content h2 {
+        font-size: 27px;
+        margin-bottom: 12px;
+    }
+    .map-content p {
+        font-size: 15px;
+    }
+    .map-control {
+        padding: 0px 0px;
+        width: 284px;
+        height: 39px;
+        margin-bottom: 20px;
+
+    }
+    .ma-control {
+        max-width: 42%;
+    }
+    .f-control {
+        text-align: left;
+        width: 296px;
+    }
+    .f-t {
+        font-size: 12px;
+        padding: 17px;
+    }
+}
