@@ -1,0 +1,349 @@
+@media(max-width:1920px){
+    .manu .limon{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+    .manu span{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+}
+@media(max-width:1480px){
+    .mamun {
+        max-width: 29%;
+        margin-left: 15px;
+    }
+    .abir {
+        max-height: 217px;
+    }
+    .img:last-child {
+        height: 0;
+    }
+    .manu .limon{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+    .manu span{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+}
+@media(max-width:1283px){
+    .icon {
+        width: 29%;
+    }
+    .con {
+        padding: 12px 20px;
+        font-size: 30px;
+        margin-left: 17px;
+    }
+    .icon span {
+        font-size: 21px;
+        padding: 24px -29px;
+        margin-top: 14px;
+        margin-left: 11px;
+    }
+    .manu {
+        width: 57%;
+    }
+    .manu ul li a {
+        padding: 9px;
+        font-size: 21px;
+    }
+    .button {
+        width: 12%;
+    }
+    .btn {
+        padding: 7px 12px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .btn a {
+        font-size: 19px;
+    }
+    .time-p span {
+        height: 0;
+    }
+
+
+    .mamun {
+        max-width: 28%;
+        margin-left: 14px;
+    }
+    .rule ul li span {
+        font-size: 22px;
+    }
+    .img {
+        max-width: 18%;
+        margin-right: 10px;
+    }
+    .abir {
+        max-height: 217px;
+    }
+    .img:last-child {
+        height: 0;
+    }
+    .abir {
+        max-height: 158px;
+    }
+    .responsive {
+        text-align: center;
+        clear: both;
+    }
+
+    /* .responsive .left {
+        float: left;
+     max-width: 100%;
+    }
+    .responsive .right {
+        float: right;
+        max-width: 100%;
+    } */
+    .picture {
+        margin-left: 37px;
+    }
+    .picture-content {
+        margin-right: 65px;
+        margin-top: 14px;
+    }
+    .manu .limon{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+    .manu span{
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+    }
+}
+@media(max-width:967px){
+
+    .mamun {
+        max-width: 26%;
+    }
+    .dolar h5 {
+        font-size: 17px;
+    }
+    .dolar h1 {
+        font-size: 32px;
+    }
+    .rule ul li {
+        font-size: 12px;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+
+}
+@media(max-width:768px){
+    .hader{
+        position: inherit;
+    }
+    .icon {
+        width: 27%;
+    }
+    .con {
+        padding: 7px 13px;
+        font-size: 28px;
+        margin-left: 2px;
+    }
+    .icon span {
+        font-size: 19px;
+    }
+    .manu ul {
+        width: 47%;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .manu {
+        width: 47%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .manu {
+        position: absolute;
+        top: 0;
+        left: 209px;
+    }
+    .button {
+        position: relative;
+        left: 366px;
+    }
+    .manu ul li a {
+        padding: 9px;
+        font-size: 16px;
+    }
+    .button {
+        width: 18%;
+    }
+    .btn {
+        padding: 7px 12px;
+    }
+    
+    .mamun {
+        max-width: 100%;
+        width: 514px;
+    }
+    .dolar {
+        width: 100%;
+    }
+    .abir {
+        max-height: 114px;
+    }
+    .in {
+        padding: 22px 127px;
+        font-size: 22px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .t-content h1 {
+        font-size: 34px;
+    }
+    .johan {
+        max-width: 100%;
+    }
+    .f-content h2 {
+        font-size: 32px;
+    }
+    .j-content p {
+        font-size: 27px;
+    }
+    .p-contant h1 {
+        font-size: 40px;
+    }
+    .picture-content {
+        margin-right: 187px;
+        margin-top: 14px;
+    }
+    .picture {
+        margin-left: 305px;
+    }
+    .img {
+        max-width: 30%;
+        margin-right: 10px;
+    }
+    .map-t {
+        width: 100%;
+    }
+    .map-content {
+        width: 100%;
+    }
+    .map-from {
+        width: inherit;
+        margin-top: 30px;
+    }
+    .ma-control {
+        max-width: 49%;
+    }
+    .manu .limon {
+        width: 42px;
+        height: 32px;
+        margin-top: 12px;
+        position: relative;
+        left: 40px;
+        opacity: 0;
+    }
+    .manu .limon:checked ~ ul {
+        width: 34%;
+        opacity: 1;
+        visibility: visible;
+        position: absolute;
+        top: 51px;
+        left: 133px;
+        background: #cbd8dd;
+        max-width: 100%;
+        z-index: 999;
+    }
+    .manu ul li ul {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 103px;
+    }
+    .manu ul li ul li {
+        padding: 1px 0px;
+        background: #fff;
+    }
+    /* .manu .limon {
+        width: 42px;
+        height: 32px;
+        margin-top: 12px;
+        position: relative;
+        top: 6px;
+        left: 0;
+        opacity:0;
+    } */
+    .manu .limon{
+        opacity: 0;
+        visibility: visible;
+        position: none;
+        z-index: 222;
+    }
+    .manu span{
+        opacity: 1;
+        visibility: visible;
+        position: none;
+     margin-top: 20px;
+    margin-left: 18px;
+    }
+}
+@media(max-width:576px){
+    .time-p {
+        width: inherit;;
+        max-width: 100%;
+    }
+    .img {
+        max-width: 30%;
+        margin-right: 10px;
+    }
+    .ma-control {
+        max-width: 45%;
+    }
+    .button {
+        position: relative;
+        left: 289px;
+    }
+    .con {
+        padding: 6px 13px;
+        font-size: 24px;
+        margin-left: 49px;
+    }
+    .manu .limon:checked ~ ul {
+        width: 34%;
+        opacity: 1;
+        visibility: visible;
+        position: absolute;
+        top: 72px;
+        left: 72px;
+        background: #cbd8dd;
+        max-width: 100%;
+        z-index: 999;
+    }
+    .manu ul li ul {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 103px;
+    }
+    .manu ul li ul li {
+        padding: 1px 0px;
+        background: #fff;
+    }
+    .manu .limon {
+        width: 42px;
+        height: 32px;
+        margin-top: 12px;
+        position: relative;
+        left: 40px;
+        opacity: 0;
+    }
+}
